@@ -1,0 +1,13 @@
+penelitian yang berjudul -> penelitian yang sudah dilakukan menggunakan beberapa metode
+compare performa MTCNN & MTCNN GAN
+
+Meeting: 
+- extend CNN (acc): adjust penulisan laporan (BAB II, III, IV)
+- tampilan sederhana testing -> process
+- perbandingan performa evaluasi (split data) -> clear
+- laporan bab 4 tidak perlu masukkan kodingan, fokus ke hasil dan penjelasan saja (dokumentasi, kesimpulan di bab 4)
+- 
+
+finish (next week ())
+- show accuracy & loss (BAB 4)
+- 
