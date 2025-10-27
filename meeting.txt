@@ -9,5 +9,12 @@ Meeting:
 - 
 
 finish (next week ())
-- show accuracy & loss (BAB 4)
+- show accuracy & loss (BAB 4) -> done
 - 
+
+progress (to do)
+1. extend CNN bab 1-3
+2. Image flow sistem
+3. interface testing & sample data
+4. laporan testing
+5. tambahkan penjelasan sesudah spliting data, ex. dibawah spliting data kalimat pembuka (70:30)
